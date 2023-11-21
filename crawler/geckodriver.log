@@ -1,0 +1,172 @@
+1699916346063	geckodriver	INFO	Listening on 127.0.0.1:36823
+1699916347076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2638.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileOgU9v1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916348201	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916348399	Marionette	INFO	Listening on port 38855
+Read port: 38855
+1699916348685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699916367941	Marionette	INFO	Stopped listening on port 38855
+1699916590160	geckodriver	INFO	Listening on 127.0.0.1:51503
+1699916590171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3359.181 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofile4od2D1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699916597141	geckodriver	INFO	Listening on 127.0.0.1:42781
+1699916597147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.114 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileOtj7xD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916597911	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916598048	Marionette	INFO	Listening on port 41257
+Read port: 41257
+1699916598254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1699916607170	Marionette	INFO	Stopped listening on port 41257
+1699916640310	geckodriver	INFO	Listening on 127.0.0.1:39871
+1699916640315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2151.2 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilebE9vbx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916641068	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916641239	Marionette	INFO	Listening on port 43131
+Read port: 43131
+1699916641448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699916673266	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 583: NS_ERROR_INVALID_CONTENT_ENCODING: Component returned failure code: 0x804b001b (NS_ERROR_INVALID_CONTENT_ENCODING) [nsIStreamListener.onDataAvailable]
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699916899047	geckodriver	INFO	Listening on 127.0.0.1:57947
+1699916899053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.139 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileiPDpZm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916899858	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699916900016	Marionette	INFO	Listening on port 34203
+Read port: 34203
+1699916900259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz, line 277: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:277:113
+Async*i@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:278:356
+add@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:278:809
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/1OVSC6-P9yU.js?_nc_x=Ij3Wp8lg5Kz:27:500
+c.$12/r<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:223:2710
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:63:10432
+c@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:63:11166
+G@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:2635
+B@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:1301
+D@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:1439
+S/<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:6146
+S@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:6169
+a.__d/<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:10971
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:63:10432
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:327:2086
+a.__d@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:49:11028
+@https://static.xx.fbcdn.net/rsrc.php/v3/yX/r/1OVSC6-P9yU.js?_nc_x=Ij3Wp8lg5Kz:27:4
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699916912548	Marionette	INFO	Stopped listening on port 43131
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699916931516	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz, line 87: Script terminated by timeout at:
+b@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:87:313
+d@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:327:1596
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:277:197
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699917453449	Marionette	INFO	Stopped listening on port 34203
+1699917460530	geckodriver	INFO	Listening on 127.0.0.1:45049
+1699917460535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.102 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileJuujgV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699917461268	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699917461411	Marionette	INFO	Listening on port 39749
+Read port: 39749
+1699917461637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iB0J4/y5/l/en_US/fMV_yYfnyNo.js?_nc_x=Ij3Wp8lg5Kz, line 29: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699917492779	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz, line 277: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/1hpbsSY8GRp.js?_nc_x=Ij3Wp8lg5Kz:277:113
+
+1699917673120	Marionette	INFO	Stopped listening on port 39749
+1699918425820	geckodriver	INFO	Listening on 127.0.0.1:35115
+1699918425826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (X11; Linux  ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2599.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilet9e4dm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699918426590	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699918426726	Marionette	INFO	Listening on port 33629
+Read port: 33629
+1699918426922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yJ/l/makehaste_jhash/QEZz4Q2ahWP.js?_nc_x=MykEKtNDbp1, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699918457632	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/ggsaTgLsgGy.js?_nc_x=MykEKtNDbp1, line 175: Script terminated by timeout at:
+r@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/ggsaTgLsgGy.js?_nc_x=MykEKtNDbp1:175:602
+u/a.port1.onmessage@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/ggsaTgLsgGy.js?_nc_x=MykEKtNDbp1:175:1442
+
+1699918593440	Marionette	INFO	Stopped listening on port 33629
+1699922118093	geckodriver	INFO	Listening on 127.0.0.1:58385
+1699922119124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable\xe2\x80\x94gpu" "user\xe2\x80\x94agent=Mozilla/5.0 (Windows NT  ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.61 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileotrOFg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699922120291	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1699922120516	Marionette	INFO	Listening on port 37465
+Read port: 37465
+1699922120604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yy/l/en_US/A-PnZzh3UJl.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yJ/l/makehaste_jhash/QEZz4Q2ahWP.js?_nc_x=MykEKtNDbp1, line 175: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699922150735	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1699922230869	Marionette	INFO	Stopped listening on port 37465

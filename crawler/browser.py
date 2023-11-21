@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
-from python_file.crawler.proxy import ProxyInfo
+# from python_file.crawler.proxy import ProxyInfo
 
 
 class Browser:
@@ -15,8 +15,8 @@ class Browser:
 
     def __init__(self,proxyUse):
         self.proxyUse = proxyUse
-        if self.proxyUse == 1:
-            self.ProxyPort = ProxyInfo().getProxy()
+        # if self.proxyUse == 1:
+        #     self.ProxyPort = ProxyInfo().getProxy()
 
     def get_option(self):
         software_names = [SoftwareName.CHROME.value]
@@ -45,10 +45,15 @@ class Browser:
 
 
     def getBrowser(self):
+        print("getBrowser")
         dir_path = os.path.dirname(os.path.realpath(__file__))
+        print("dir_path: ", dir_path)
 
         BROWSER_EXE = '/usr/bin/firefox'
-        GECKODRIVER = dir_path + '/../driver/geckodriver'
+        # GECKODRIVER = dir_path + '/../driver/geckodriver'
+        # GECKODRIVER = '/home/super/Downloads/context/geckodriver'
+        GECKODRIVER = '/usr/bin/geckodriver'
+        print("GECKODRIVER: ", GECKODRIVER)
         FIREFOX_BINARY = FirefoxBinary(BROWSER_EXE)
 
         PROFILE = webdriver.FirefoxProfile()

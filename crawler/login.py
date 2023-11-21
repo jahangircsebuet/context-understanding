@@ -4,10 +4,12 @@ from random import randint
 
 from selenium.common.exceptions import NoSuchElementException
 
+import browser
+
 
 class Login(object):
-    def __init__(self,browser):
-        self.browser=browser
+    def __init__(self, browser):
+        self.browser = browser
 
     def safe_find_element_by_id(self, elem_id):
         try:
@@ -20,14 +22,16 @@ class Login(object):
             self.browser.get("https://www.facebook.com")
             self.browser.maximize_window()
 
-            time.sleep(randint(1,5))
+            time.sleep(randint(1, 5))
 
             # filling the form
             self.browser.find_element_by_name('email').send_keys(email)
             self.browser.find_element_by_name('pass').send_keys(password)
 
             # clicking on login button
-            self.browser.find_element_by_id('loginbutton').click()
+            # self.browser.find_element_by_id('loginbutton').click()
+            # self.browser.find_element_by_id('u_0_5_C2').click()
+            self.browser.find_element_by_name('login').click()
 
             # if your account uses multi factor authentication
             mfa_code_input = self.safe_find_element_by_id('approvals_code')
@@ -54,3 +58,7 @@ class Login(object):
             print(sys.exc_info()[2])
             exit()
 
+
+if __name__ == "__main__":
+    browsers = browser.Browser(0).getBrowser()
+    browsers.get("https://www.facebook.com/")

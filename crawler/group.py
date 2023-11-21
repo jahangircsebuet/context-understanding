@@ -66,7 +66,11 @@ class Group(object):
         self.scroll_web_apge()
 
         # Once the full page is loaded, we can start scraping
-        posts = self.browser.find_elements_by_class_name("userContentWrapper")
+        # posts = self.browser.find_elements_by_class_name("userContentWrapper")
+        # posts = self.browser.find_element_by_class_name
+
+        posts = self.browser.find_elements_by_xpath("//div[@role='article']")
+        print("posts.len: ", len(posts))
         analysis = []
 
         for count, post in enumerate(posts):
