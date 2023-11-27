@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from crawler.login import Login
 import csv
+from selenium.webdriver.common.action_chains import ActionChains
 
 
 class PostFromPublicPage(object):
@@ -15,6 +16,44 @@ class PostFromPublicPage(object):
         self.browser = browser
         self.depth = int(depth)
         self.data = []
+
+    # def find_post_text(self, post):
+    #     return post.text
+    #
+    # def click_see_more(self, post):
+    #     try:
+    #         # Scroll into view of the parent element
+    #         actions = ActionChains(self.browser)
+    #         actions.move_to_element(post).perform()
+    #
+    #         # Find the "See more" button by its text content
+    #         see_more_button = post.find_element(By.XPATH, ".//div[text()='See more']")
+    #         see_more_button.click()
+    #     except Exception as e:
+    #         print(f"Error clicking See more: {e}")
+    #
+    # def fetch_posts(self):
+    #     texts = []
+    #     posts = self.browser.find_elements_by_xpath("//div[@data-ad-preview='message']")
+    #
+    #     for count, post in enumerate(posts):
+    #         try:
+    #             # Wait for the content to load after clicking "See more"
+    #             WebDriverWait(self.browser, 10).until(
+    #                 EC.invisibility_of_element_located((By.XPATH, ".//div[text()='See more']"))
+    #             )
+    #
+    #             # Click "See more" for each post
+    #             self.click_see_more(post)
+    #
+    #             text = self.find_post_text(post)
+    #             texts.append(text)
+    #
+    #         except Exception as e:
+    #             print(e)
+    #             continue
+    #
+    #     return texts
 
     def scroll_web_page(self):
         for scroll in range(self.depth):
@@ -54,12 +93,6 @@ class PostFromPublicPage(object):
 
         for count, post in enumerate(posts):
             try:
-                # post = post.find_element_by_xpath("//div[@data-ad-preview='message']")
-                # print("post: ", post)
-                # links = post.find_element_by_xpath("//a[@role='link']")
-                # print("links.len: ", len(links))
-                # for link in links:
-                #     print("link: ", link)
                 text = self.find_post_text(post)
                 texts.append(text)
             except Exception as e:
@@ -69,8 +102,6 @@ class PostFromPublicPage(object):
 
     def collect_posts(self, depth, url, filename, gender):
         posts = []
-        # self.browser.get('https://www.facebook.com/chamokh/')
-        # self.browser.get('https://www.facebook.com/JhankarMahbub/')
         self.browser.get(url)
 
         # close the pop up
@@ -124,11 +155,11 @@ scraper = PostFromPublicPage(browser=browser, depth=5)
 # https://www.facebook.com/superman.com.bd
 # posts = scraper.collect_posts(50, "https://www.facebook.com/superman.com.bd/", "superman.com.bd.csv", "M")
 
-# https://facebook.com/sohani.akter.9
-posts = scraper.collect_posts(50, "https://www.facebook.com/sohani.akter.9/", "sohani.akter.9.csv", "F")
+# https://facebook.com/sohani.akter.9 - done
+# posts = scraper.collect_posts(10, "https://facebook.com/sohani.akter.9/", "sohani.akter.9.csv", "F")
 
 # https://www.facebook.com/people/Sayed-Sajib/100083328978432/
-
+posts = scraper.collect_posts(10, "https://www.facebook.com/people/Sayed-Sajib/100083328978432/", "Sayed-Sajib.csv", "M")
 
 print("total posts.len: ", len(posts))
 
