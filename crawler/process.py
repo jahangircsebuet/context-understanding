@@ -81,9 +81,9 @@ if __name__ == "__main__":
     # Process(browser, "asdsad", 1, 1).find_gender_from_facebook_profile('buet.msc.cse', '---------')
     process = Process(browser, "1590338747870221", 1, 1)
     process.start_data_collection('jahangir.alam.cse.buet.bd@gmail.com', 'Rec0ndite!6184345038')
-    pass
+    # pass
 
-    analysis = ['রুবাইয়াত বিনতে নাজমুল', 'https://www.facebook.com/ruba149', '1576072120',
-                '৩৭ এর রিটেনের সময় আমরা আগের বিসিএসগুলার তুলনায় বেশ কম সময় পাইসিলাম। তবে এবারের চেয়ে বেশি সময় ছিল। জুনিয়র অনেকেই হতাশ এটার জন্য, দেখতেসি। but believe me, it can work in a positive way for u. আমরা বেশিরভাগ average Buetian ই কিন্তু শেষ সময়ে এসে পড়ে পাস করা মানুষ। ৩৭ এ পরীক্ষার হলে গিয়ে মনে হইসিল, মানুষ আরো সময় পেলে আরো কত কত ডাটা মুখস্ত করতো, আল্লাহ জানে! Have faith on your learning capability. আর প্রিলিতে যেমন সাধারণ জ্ঞান আসে, রিটেনে ওরকম তথ্য based প্রশ্নের চেয়ে কিছুটা সংজ্ঞা...\nContinue reading']
+    # analysis = ['রুবাইয়াত বিনতে নাজমুল', 'https://www.facebook.com/ruba149', '1576072120',
+    #             '৩৭ এর রিটেনের সময় আমরা আগের বিসিএসগুলার তুলনায় বেশ কম সময় পাইসিলাম। তবে এবারের চেয়ে বেশি সময় ছিল। জুনিয়র অনেকেই হতাশ এটার জন্য, দেখতেসি। but believe me, it can work in a positive way for u. আমরা বেশিরভাগ average Buetian ই কিন্তু শেষ সময়ে এসে পড়ে পাস করা মানুষ। ৩৭ এ পরীক্ষার হলে গিয়ে মনে হইসিল, মানুষ আরো সময় পেলে আরো কত কত ডাটা মুখস্ত করতো, আল্লাহ জানে! Have faith on your learning capability. আর প্রিলিতে যেমন সাধারণ জ্ঞান আসে, রিটেনে ওরকম তথ্য based প্রশ্নের চেয়ে কিছুটা সংজ্ঞা...\nContinue reading']
 
     # checkDBInfo(analysis)

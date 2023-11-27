@@ -52,11 +52,20 @@ import pickle
 # f.close()
 
 
-#1 BSA group, 1590338747870221 - fetched 200 data
-#2 aripata group, 368809433220789 - fetched 200 data
-#3 509564056346760 - wtf carbondale - fetched 200 data
 #4 918725435132792 - buy nothing carbondale
-posts = get_posts(group=509564056346760, cookies=cj, options={"comments": False, "reactors": False})
+# posts = get_posts(group=509564056346760, cookies=cj, options={"comments": False, "reactors": False})
+
+#1 BSA group, 1590338747870221 ---------------- 200 data
+#2 aripata group, 368809433220789 ------------- 200 data
+#3 509564056346760 - wtf carbondale ----------- 200 data
+# 0608 group - 1458075294659911 - done -------- 200 posts
+# walmart.com group - 1728190264188306 - done - 60 posts
+# foodbloggersbd - done ----------------------- 400 posts
+# whats up carbondale - 726556837924605 ------- 400 posts
+# carbondale connected - 233368565385412 ------ 400 posts
+# partha siu - partha.bhowmik.5205 ------------ 8
+# ---------------------------------------total: 1360 posts
+posts = get_posts("partha.bhowmik.5205", cookies=cj)
 i = 0
 all_posts = []
 for post in posts:
@@ -64,7 +73,7 @@ for post in posts:
     i = i + 1
     all_posts.append(post)
 
-with open('wtfcarbondale.pkl', 'wb') as f:
+with open('partha.bhowmik.pkl', 'wb') as f:
     pickle.dump(all_posts, f)
 f.close()
 

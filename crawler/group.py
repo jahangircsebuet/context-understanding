@@ -71,6 +71,7 @@ class Group(object):
 
         posts = self.browser.find_elements_by_xpath("//div[@role='article']")
         print("posts.len: ", len(posts))
+
         analysis = []
 
         for count, post in enumerate(posts):
@@ -79,13 +80,13 @@ class Group(object):
             print(post)
 
             try:
-                author_name = self.find_post_author(post)
-                fb_profile = self.find_fb_profile(post)
-                utime = self.find_post_time(post)
+                # author_name = self.find_post_author(post)
+                # fb_profile = self.find_fb_profile(post)
+                # utime = self.find_post_time(post)
                 text = self.find_post_text(post)
-                gender=self.scrape_gender(fb_profile)
-                print("Gender-----",gender)
-                analysis.append([author_name, fb_profile, utime, text])
+                # gender=self.scrape_gender(fb_profile)
+                # print("Gender-----",gender)
+                # analysis.append([author_name, fb_profile, utime, text])
                 print(analysis)
             except Exception as e:
                 print(e)
