@@ -5015,3 +5015,1272 @@ U@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDts4/l/en_US/ATWE6ihCDj97_-M_2KeobYr3_43vsKVBi8Pm4aeCXgyjV6qqsmGt9A4Db0XFVhOH0A-j-6I-YINBW-7s_2e7T9Ujeaih3noRYrUKBj6vHhHwObt1aFOO5jGL_NfyXwgoFIdeGBZZRg-UV1B4u5IdJmhe1UL_K_A-qL9bLt2yuvWG-JbF2KW45SaLwT9f7xxfSseW05RlfZq49zecU.js?_nc_x=Ij3Wp8lg5Kz, line 469: unreachable code after return statement
 JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDts4/l/en_US/ATWE6ihCDj97_-M_2KeobYr3_43vsKVBi8Pm4aeCXgyjV6qqsmGt9A4Db0XFVhOH0A-j-6I-YINBW-7s_2e7T9Ujeaih3noRYrUKBj6vHhHwObt1aFOO5jGL_NfyXwgoFIdeGBZZRg-UV1B4u5IdJmhe1UL_K_A-qL9bLt2yuvWG-JbF2KW45SaLwT9f7xxfSseW05RlfZq49zecU.js?_nc_x=Ij3Wp8lg5Kz, line 485: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz, line 709: Script terminated by timeout at:
+wd@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:27374
+sd@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:27052
+Kj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:116176
+Sj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:117274
+Bj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:113637
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:61:10432
+c@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:61:11166
+N@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:224:2339
+U@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:224:3041
+
+1701119541119	Marionette	INFO	Stopped listening on port 42081
+1701120347267	geckodriver	INFO	Listening on 127.0.0.1:55307
+1701120348281	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 4) AppleWebKit/536.36 (KHTML, like Gecko) Chrome/67.2.3.4 Safari/536.36" "-no-remote" "-profile" "/tmp/rust_mozprofile4W9gJx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701120349310	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701120349474	Marionette	INFO	Listening on port 32927
+Read port: 32927
+1701120349552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDts4/l/en_US/ATWE6ihCDj97_-M_2KeobYr3_43vsKVBi8Pm4aeCXgyjV6qqsmGt9A4Db0XFVhOH0A-j-6I-YINBW-7s_2e7T9Ujeaih3noRYrUKBj6vHhHwObt1aFOO5jGL_NfyXwgoFIdeGBZZRg-UV1B4u5IdJmhe1UL_K_A-qL9bLt2yuvWG-JbFVRtNiYg51H52KW45SaLwT9f7xxfSseW05RlfZq49zecU.js?_nc_x=Ij3Wp8lg5Kz, line 469: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iDts4/l/en_US/ATWE6ihCDj97_-M_2KeobYr3_43vsKVBi8Pm4aeCXgyjV6qqsmGt9A4Db0XFVhOH0A-j-6I-YINBW-7s_2e7T9Ujeaih3noRYrUKBj6vHhHwObt1aFOO5jGL_NfyXwgoFIdeGBZZRg-UV1B4u5IdJmhe1UL_K_A-qL9bLt2yuvWG-JbFVRtNiYg51H52KW45SaLwT9f7xxfSseW05RlfZq49zecU.js?_nc_x=Ij3Wp8lg5Kz, line 485: unreachable code after return statement
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701120379428	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ixgu4/y3/l/en_US/hFeaAcHaTeJ.js?_nc_x=Ij3Wp8lg5Kz, line 142: Script terminated by timeout at:
+b@https://static.xx.fbcdn.net/rsrc.php/v3ixgu4/y3/l/en_US/hFeaAcHaTeJ.js?_nc_x=Ij3Wp8lg5Kz:142:126
+b.evaluateAutoplay@https://static.xx.fbcdn.net/rsrc.php/v3i1Tp4/yD/l/en_US/O1MNQXzgVLL.js?_nc_x=Ij3Wp8lg5Kz:56:247
+a@https://static.xx.fbcdn.net/rsrc.php/v3i1Tp4/yD/l/en_US/O1MNQXzgVLL.js?_nc_x=Ij3Wp8lg5Kz:63:3227
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3i1Tp4/yD/l/en_US/O1MNQXzgVLL.js?_nc_x=Ij3Wp8lg5Kz:63:5043
+Xh@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:90888
+zi@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:105615
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:107036
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:107018
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:107018
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:107018
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+Ei@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:108295
+Di@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:106922
+
+1701121559228	Marionette	INFO	Stopped listening on port 32927
+1701122093908	geckodriver	INFO	Listening on 127.0.0.1:36133
+1701122094912	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9757 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileVA3hIx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122095842	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122096019	Marionette	INFO	Listening on port 33561
+Read port: 33561
+1701122096241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701122125886	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701122437165	geckodriver	INFO	Listening on 127.0.0.1:41183
+1701122437171	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.14 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.14" "-no-remote" "-profile" "/tmp/rust_mozprofilel9V54U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122437918	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122438061	Marionette	INFO	Listening on port 35447
+Read port: 35447
+1701122438132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701122467932	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+U@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:224:2793
+
+1701122952468	Marionette	INFO	Stopped listening on port 35447
+1701122998400	geckodriver	INFO	Listening on 127.0.0.1:50011
+1701122998404	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/5.0.354.0 Safari/533.3" "-no-remote" "-profile" "/tmp/rust_mozprofileENnW5E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122999169	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701122999284	Marionette	INFO	Listening on port 33761
+Read port: 33761
+1701122999491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701123029184	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ8dU5jb8tr96xJdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1271: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ8dU5jb8tr96xJdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1288: unreachable code after return statement
+1701123540645	geckodriver	INFO	Listening on 127.0.0.1:55441
+1701123541653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2531.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileWa42Ww"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701123542564	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701123542672	Marionette	INFO	Listening on port 37081
+Read port: 37081
+1701123542910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701123573420	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1701124239813	geckodriver	INFO	Listening on 127.0.0.1:36681
+1701124240827	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/535.15 (KHTML, like Gecko) Chrome/53.0.2710.66 Safari/535.15" "-no-remote" "-profile" "/tmp/rust_mozprofileDOGbZu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701124241885	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701124242074	Marionette	INFO	Listening on port 43865
+Read port: 43865
+1701124242327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701124271907	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz, line 709: Script terminated by timeout at:
+xd@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:27724
+ud@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:27222
+Mf@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:50593
+e/e<@https://static.xx.fbcdn.net/rsrc.php/v3i1Tp4/yD/l/en_US/O1MNQXzgVLL.js?_nc_x=Ij3Wp8lg5Kz:33:1102
+
+1701130768232	Marionette	INFO	Stopped listening on port 33761
+1701131710358	geckodriver	INFO	Listening on 127.0.0.1:57651
+1701131711369	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1615.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileF4Axks"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701131712358	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701131712581	Marionette	INFO	Listening on port 33083
+Read port: 33083
+1701131712809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701131742402	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibO34/y-/l/makehaste_jhash/p5tYtTidt1C.js?_nc_x=MykEKtNDbp1, line 8: WebGL context was lost.
+1701132591113	geckodriver	INFO	Listening on 127.0.0.1:59375
+1701132592125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2700.0 Safari/537.36#" "-no-remote" "-profile" "/tmp/rust_mozprofile04lhGK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701132593200	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701132593406	Marionette	INFO	Listening on port 34455
+Read port: 34455
+1701132593532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701132623223	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ibO34/y-/l/makehaste_jhash/p5tYtTidt1C.js?_nc_x=MykEKtNDbp1, line 8: WebGL context was lost.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1, line 665: Script terminated by timeout at:
+wd@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27374
+sd@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27052
+Kj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:116176
+Qj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:116833
+re@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:39680
+te@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:40394
+ve/<@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:41167
+
+1701133738413	Marionette	INFO	Stopped listening on port 34455
+[6088] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1701133791384	geckodriver	INFO	Listening on 127.0.0.1:32981
+1701133792398	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.29 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilew0pdZN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701133793510	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701133793660	Marionette	INFO	Listening on port 34497
+Read port: 34497
+1701133793949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701133823620	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+[Parent 10524, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:10524): WARNING **: 19:21:17.041: Failed to call GetIdletime(): Timeout was reached
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701134545022	Marionette	INFO	Stopped listening on port 34497
+[Parent 10524, IPC I/O Parent] WARNING: process 10714 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701134548075	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701138422923	geckodriver	INFO	Listening on 127.0.0.1:36139
+1701138422931	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.16 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileWgzMMx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701138423971	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701138424191	Marionette	INFO	Listening on port 38565
+Read port: 38565
+1701138424447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701138453992	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701138838761	Marionette	INFO	Stopped listening on port 38565
+[Parent 12324, IPC I/O Parent] WARNING: process 12530 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701138839026	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1701138870073	geckodriver	INFO	Listening on 127.0.0.1:36765
+1701138871088	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.1 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.1" "-no-remote" "-profile" "/tmp/rust_mozprofileoHZeGP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701138872190	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701138872415	Marionette	INFO	Listening on port 32873
+Read port: 32873
+1701138872636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701138902218	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701139278911	Marionette	INFO	Stopped listening on port 32873
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13269, IPC I/O Parent] WARNING: process 13461 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+1701139333250	geckodriver	INFO	Listening on 127.0.0.1:40273
+1701139334265	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2151.2 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileWBjLFC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701139335279	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701139335443	Marionette	INFO	Listening on port 41613
+Read port: 41613
+1701139335526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701139365293	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1, line 665: Script terminated by timeout at:
+Lg@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:73117
+Ng@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:74183
+ik@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:122408
+Uj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:118012
+Rj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:117182
+Qj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:116995
+re@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:39680
+te@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:40394
+ve/<@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:41167
+
+1701139723926	Marionette	INFO	Stopped listening on port 41613
+1701139862336	geckodriver	INFO	Listening on 127.0.0.1:56969
+1701139863348	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ...  AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.678.0 Safari/534.21" "-no-remote" "-profile" "/tmp/rust_mozprofileNuDCKY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701139864385	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701139864613	Marionette	INFO	Listening on port 46201
+Read port: 46201
+1701139864837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701139894404	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701140040082	Marionette	INFO	Stopped listening on port 46201
+1701140130173	geckodriver	INFO	Listening on 127.0.0.1:59201
+1701140130180	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/5.0.355.0 Safari/533.3" "-no-remote" "-profile" "/tmp/rust_mozprofileHg44Da"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701140130974	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701140131130	Marionette	INFO	Listening on port 38661
+Read port: 38661
+1701140131346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701140161001	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701140572734	Marionette	INFO	Stopped listening on port 38661
+[Parent 15394, IPC I/O Parent] WARNING: process 15589 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701140572932	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1701140918759	geckodriver	INFO	Listening on 127.0.0.1:49519
+1701140918768	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/536.24 (KHTML, like Gecko) Chrome/32.0.2019.89 Safari/536.24" "-no-remote" "-profile" "/tmp/rust_mozprofileMHlwAE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701140919816	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701140919995	Marionette	INFO	Listening on port 42709
+Read port: 42709
+1701140920232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701140949838	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1, line 665: Script terminated by timeout at:
+xd@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27724
+ud@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27222
+Mf@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:50593
+a/</a<@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:678:431
+b@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:5650
+a/H/<@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:22708
+H@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:22688
+h@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:23965
+q/a<@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:10694
+g@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:706:13344
+dispatch@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:706:12962
+Z@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:24519
+a/ka/<@https://static.xx.fbcdn.net/rsrc.php/v3immi4/yD/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6ZQllFv7EHEl.js?_nc_x=MykEKtNDbp1:713:29813
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:231:191
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:882
+m/<@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:407
+
+1701141627164	Marionette	INFO	Stopped listening on port 42709
+1701144428678	geckodriver	INFO	Listening on 127.0.0.1:42981
+1701144429689	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofile0TT3Zh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701144430598	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701144430780	Marionette	INFO	Listening on port 35655
+Read port: 35655
+1701144430856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701144460614	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701144655770	Marionette	INFO	Stopped listening on port 35655
+[Parent 18814, IPC I/O Parent] WARNING: process 19008 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701144655910	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+[18886] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1701144752738	geckodriver	INFO	Listening on 127.0.0.1:48443
+1701144753751	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2583.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileIINm1t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701144754731	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701144754912	Marionette	INFO	Listening on port 33251
+Read port: 33251
+1701144755112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701144784750	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701145033347	geckodriver	INFO	Listening on 127.0.0.1:47635
+1701145034359	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... HTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Avast/70.0.917.102" "-no-remote" "-profile" "/tmp/rust_mozprofilegXMNoX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145035628	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145035840	Marionette	INFO	Listening on port 37249
+Read port: 37249
+1701145035986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 19488, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:19488): WARNING **: 22:18:07.298: Failed to call GetIdletime(): Timeout was reached
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701145087670	Marionette	INFO	Stopped listening on port 33251
+[Parent 19488, IPC I/O Parent] WARNING: process 19689 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701145088324	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701145343978	Marionette	INFO	Stopped listening on port 37249
+[Parent 20182, IPC I/O Parent] WARNING: process 20443 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701145344146	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1701145459323	geckodriver	INFO	Listening on 127.0.0.1:43697
+1701145459330	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9757 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofiledPe4ob"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145460290	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145460471	Marionette	INFO	Listening on port 44269
+Read port: 44269
+1701145460722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701145490341	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1, line 665: Script terminated by timeout at:
+ik@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:122298
+Uj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:118012
+Rj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:117182
+Qj@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:116995
+re@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:39680
+te@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:40394
+ve/<@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:41167
+
+1701145687980	Marionette	INFO	Stopped listening on port 44269
+1701145690491	geckodriver	INFO	Listening on 127.0.0.1:45835
+1701145691502	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2700.0 Safari/537.36#" "-no-remote" "-profile" "/tmp/rust_mozprofileQZvZTR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145692455	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145692651	Marionette	INFO	Listening on port 35479
+Read port: 35479
+1701145692868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1701145701951	geckodriver	INFO	Listening on 127.0.0.1:58971
+1701145701957	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.29 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileWjObbP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145702667	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701145702794	Marionette	INFO	Listening on port 34689
+Read port: 34689
+1701145703002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701145732679	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701145985150	Marionette	INFO	Stopped listening on port 34689
+[Parent 21669, IPC I/O Parent] WARNING: process 21860 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701145985300	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1701146083325	geckodriver	INFO	Listening on 127.0.0.1:52089
+1701146083336	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3251.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileJldwWh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701146084296	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701146084501	Marionette	INFO	Listening on port 39313
+Read port: 39313
+1701146084587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701146114354	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701146330937	geckodriver	INFO	Listening on 127.0.0.1:35155
+1701146331952	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... Kernel 3.2.0-88.126) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0" "-no-remote" "-profile" "/tmp/rust_mozprofilevMY6Kl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701146333022	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701146333224	Marionette	INFO	Listening on port 34801
+Read port: 34801
+1701146333323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701146366146	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 22366, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:22366): WARNING **: 22:41:54.288: Failed to call GetIdletime(): Timeout was reached
+
+[Parent 23082, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:23082): WARNING **: 22:41:54.316: Failed to call GetIdletime(): Timeout was reached
+
+XXX: resource creation failed
+XXX: resource creation failed
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1, line 714: Script terminated by timeout at:
+getMuted@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:714:1251
+a@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:711:2802
+collectUncontrolledState@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:713:18111
+dispatch@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:706:12916
+Z@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:713:24519
+a/ka/<@https://static.xx.fbcdn.net/rsrc.php/v3immi4/y4/l/makehaste_jhash/WJuIZmtQXAaHcKx3ADMRYJ0WxrAkSldtciRMASy-YcqmQDBdntLNlXYaE3XjCh_UAj9owjKcgDu_F1Ykix9zX4pMR96RFI-nfjYNMSl2xBylIUX7kjB6M6megQBAcuvD4G_vZKXBlXufeJqd6pCu-wFddoBiY0OTr7N0B26OORkWCZcvl-atjt5F7osIgfot1jc3FVgwxJOfBeNFWn8ReVJO9XfpKvNozPcv0rqdPsecSkGA-PSY4wJH6mJrmVk37uOil7DgtlrfLKoTUCz2pcABDpuk-hiMWDo3M0Hok7Kzfe6dGB3mzBTESTBRul6.js?_nc_x=MykEKtNDbp1:713:29813
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:231:191
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:882
+m/<@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:407
+
+1701146986742	Marionette	INFO	Stopped listening on port 39313
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701147670905	Marionette	INFO	Stopped listening on port 34801
+[Parent 23082, IPC I/O Parent] WARNING: process 23290 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701147673967	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701147699185	geckodriver	INFO	Listening on 127.0.0.1:37587
+1701147699193	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.775 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilegGa3vm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701147700220	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701147700376	Marionette	INFO	Listening on port 42553
+Read port: 42553
+1701147700448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701147730255	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 25028, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:25028): WARNING **: 23:07:26.803: Failed to call GetIdletime(): Timeout was reached
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701148107987	Marionette	INFO	Stopped listening on port 42553
+[Parent 25028, IPC I/O Parent] WARNING: process 25231 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701148111029	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701148136619	geckodriver	INFO	Listening on 127.0.0.1:46079
+1701148136629	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2568.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileDeTuxk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148137639	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148137836	Marionette	INFO	Listening on port 34079
+Read port: 34079
+1701148138057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701148167656	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1, line 665: Script terminated by timeout at:
+wd@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27374
+sd@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:27052
+Mf@https://static.xx.fbcdn.net/rsrc.php/v3iG2s4/y_/l/makehaste_jhash/f6B_ecXg0nwsv_PEbh8cFyoCikBFyJpALB_GVPPpIh58KZZSTArA0iJLkzk4iS8zDFaKH4-edRqrPxxBafX7UTsIUgTwNviN8NbQ_XA5qnYlroY9BHJNlXrImVOocDWplRUrQ0hM_jy-MwDIrmjlfnzf6L7rHBu3NSXwN.js?_nc_x=MykEKtNDbp1:665:50559
+a/</a<@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:739:431
+b@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:5650
+a/H/<@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:22708
+H@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:22688
+h@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:23965
+q/a<@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:10694
+g@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:767:13344
+dispatch@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:767:12962
+Z@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:24519
+a/ka/<@https://static.xx.fbcdn.net/rsrc.php/v3iuXV4/yz/l/makehaste_jhash/w43vFDASpf87E_7i7-menqsEpFPjJuMrp9owjKcgDu_F1Ykix9zX4pM.js?_nc_x=MykEKtNDbp1:774:29813
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:231:191
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:882
+m/<@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:407
+
+1701148457541	Marionette	INFO	Stopped listening on port 34079
+1701148467745	geckodriver	INFO	Listening on 127.0.0.1:44629
+1701148468758	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilelh6X89"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148469833	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148470029	Marionette	INFO	Listening on port 46063
+Read port: 46063
+1701148470239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701148499857	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701148502717	Marionette	INFO	Stopped listening on port 46063
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701148504285	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701148668462	geckodriver	INFO	Listening on 127.0.0.1:41479
+1701148668467	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilewIHZcH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148669177	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701148669356	Marionette	INFO	Listening on port 41231
+Read port: 41231
+1701148669427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701148699187	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701149206648	Marionette	INFO	Stopped listening on port 41231
+[Parent 27219, IPC I/O Parent] WARNING: process 27415 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+1701150173364	geckodriver	INFO	Listening on 127.0.0.1:58999
+1701150174373	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.775 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileCNeSc7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701150175359	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701150175560	Marionette	INFO	Listening on port 43749
+Read port: 43749
+1701150175641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701150206048	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701150492941	Marionette	INFO	Stopped listening on port 43749
+[Parent 28289, IPC I/O Parent] WARNING: process 28487 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701150761520	geckodriver	INFO	Listening on 127.0.0.1:48003
+1701150761533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2583.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofile56okHN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701150762478	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701150762671	Marionette	INFO	Listening on port 42779
+Read port: 42779
+1701150762950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701150792529	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1, line 53: Script terminated by timeout at:
+b.$14@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:53:4126
+a/this.$12@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:53:437
+b.disconnect@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:53:4351
+e.$29@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:56:3182
+e.shutdown@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:56:1398
+e.$25@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:57:2477
+e.$24/<@https://static.xx.fbcdn.net/rsrc.php/v3igNH4/yT/l/makehaste_jhash/mydmYj-ZAm_y4d5m85tsDeMiaKNN4Oop_dm0_x_03mi7WSsqGrEt_U8fxr7w70nsyg_-GOFcPb4Wwd5Oj1RUMalfVj2cCA8PQRjLirlqaABPCIEOAS-5NNdM-UsA3yQ9zx59xGRxxkZ7iB2uZYIB56SlOk.js?_nc_x=MykEKtNDbp1:57:2318
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:231:191
+p@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:882
+m/<@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=MykEKtNDbp1:232:407
+
+1701151111328	Marionette	INFO	Stopped listening on port 42779
+1701152144108	geckodriver	INFO	Listening on 127.0.0.1:38243
+1701152145119	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ML, like Gecko) coc_coc_browser/49.0 Chrome/43.0.2357.138 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofileooY96B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152146087	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152146262	Marionette	INFO	Listening on port 46045
+Read port: 46045
+1701152146523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701152176236	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[Parent 31890, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:31890): WARNING **: 00:20:59.047: Failed to call GetIdletime(): Timeout was reached
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701152459392	Marionette	INFO	Stopped listening on port 46045
+[Parent 31890, IPC I/O Parent] WARNING: process 32089 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701152626836	geckodriver	INFO	Listening on 127.0.0.1:50903
+1701152626847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ebKit/534.0 (KHTML, like Gecko) Chrome/24.0.1284.0.3.742.3 Safari/534.3" "-no-remote" "-profile" "/tmp/rust_mozprofileXYP50Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152627861	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152628056	Marionette	INFO	Listening on port 44155
+Read port: 44155
+1701152628303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1701152631170	Marionette	INFO	Stopped listening on port 44155
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701152635328	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701152666917	geckodriver	INFO	Listening on 127.0.0.1:45019
+1701152666922	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.45 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.45" "-no-remote" "-profile" "/tmp/rust_mozprofileBkGzfW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152667624	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701152667733	Marionette	INFO	Listening on port 40353
+Read port: 40353
+1701152667918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701152698179	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701152941553	Marionette	INFO	Stopped listening on port 40353
+[Parent 33675, IPC I/O Parent] WARNING: process 33863 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701153101824	geckodriver	INFO	Listening on 127.0.0.1:49309
+1701153101831	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3057.0 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofile0ODj08"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701153102830	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701153103026	Marionette	INFO	Listening on port 41413
+Read port: 41413
+1701153103110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701153132842	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701153421735	Marionette	INFO	Stopped listening on port 41413
+[Parent 34436, IPC I/O Parent] WARNING: process 34642 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701153818641	geckodriver	INFO	Listening on 127.0.0.1:52421
+1701153818652	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... bKit/536.23.38 (KHTML, like Gecko) Chrome/57.0.2740.20 Safari/536.23.38" "-no-remote" "-profile" "/tmp/rust_mozprofileNrraq6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701153819736	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701153819911	Marionette	INFO	Listening on port 36595
+Read port: 36595
+1701153820129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihVQ4/yw/l/en_US/ASHKdN0Mz8S.js?_nc_x=Ij3Wp8lg5Kz, line 26: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ik5b4/yA/l/makehaste_jhash/-mu2AIn6l-f.js?_nc_x=MykEKtNDbp1, line 174: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701153849784	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701154078229	Marionette	INFO	Stopped listening on port 36595
+[Parent 35258, IPC I/O Parent] WARNING: process 35466 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[35339] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1701154082248	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701154405516	geckodriver	INFO	Listening on 127.0.0.1:55821
+1701154405527	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.31 (KHTML, like Gecko) Chrome/17.0.1410.63 Safari/537.31" "-no-remote" "-profile" "/tmp/rust_mozprofileodXCyx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701154406517	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701154406733	Marionette	INFO	Listening on port 37419
+Read port: 37419
+1701154406970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701154437045	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ80tDlEya2HG2JdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1271: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ80tDlEya2HG2JdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1288: unreachable code after return statement
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iwQz4/l/en_US/UJzcRbj2j3lt26EP7pgZ0tjNReFpKEIQfgyavQe48WU_P1zLvt0YBlZPVaZnXM0-ud0A2Jh0jKXGirvl3zOxK6xhbcSKod2MOLodBTnzs46PkkgMybshPqfIS.js?_nc_x=Ij3Wp8lg5Kz, line 44: WebGL context was lost.
+[Parent 36105, Main Thread] WARNING: Failed to call GetIdletime(): Timeout was reached
+: 'glib warning', file /build/firefox-s0Iwd6/firefox-120.0+build2/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:36105): WARNING **: 01:03:36.946: Failed to call GetIdletime(): Timeout was reached
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1701155017250	Marionette	INFO	Stopped listening on port 37419
+[Parent 36105, IPC I/O Parent] WARNING: process 36311 exited on signal 9: file /build/firefox-s0Iwd6/firefox-120.0+build2/ipc/chromium/src/base/process_util_posix.cc:265
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1701155030305	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1701155114180	geckodriver	INFO	Listening on 127.0.0.1:45647
+1701155114190	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2883.95 Safari/537.36" "-no-remote" "-profile" "/tmp/rust_mozprofilezHEbnl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701155115188	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable\u2014gpu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1701155115422	Marionette	INFO	Listening on port 38819
+Read port: 38819
+1701155115668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+libva info: VA-API version 1.7.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_7
+libva info: va_openDriver() returns 0
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ihcV4/ys/l/en_US/O7YnOUpTf84.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1701155145823	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ80tDlEya2HG2JdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1271: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3irsZ4/l/en_US/VRUacs-3BlC_02L4BZIqiLv_3GBGaYVlFh5IohkIBmQ80tDlEya2HG2JdCQ5dXFiSiV6CIUWInLJxSgVK5VjL36IJF--W2ZgZizjXYxbOveXiU.js?_nc_x=Ij3Wp8lg5Kz, line 1288: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz, line 709: Script terminated by timeout at:
+Lg@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:73117
+Ng@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:74183
+ik@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:122408
+Uj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:118012
+Tj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:117985
+Sj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:117829
+Bj@https://static.xx.fbcdn.net/rsrc.php/v3inZS4/yN/l/en_US/phnIuDD2RSG.js?_nc_x=Ij3Wp8lg5Kz:709:113637
+N@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:224:2339
+U@https://static.xx.fbcdn.net/rsrc.php/v3/yH/r/Z9PgHoGpPPM.js?_nc_x=Ij3Wp8lg5Kz:224:3041
+
+1701156413585	Marionette	INFO	Stopped listening on port 38819

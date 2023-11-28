@@ -64,8 +64,9 @@ import pickle
 # whats up carbondale - 726556837924605 ------- 400 posts
 # carbondale connected - 233368565385412 ------ 400 posts
 # partha siu - partha.bhowmik.5205 ------------ 8
+# rumana - - 100 posts - done
 # ---------------------------------------total: 1360 posts
-posts = get_posts("partha.bhowmik.5205", cookies=cj)
+posts = get_posts("shujon", cookies=cj)
 i = 0
 all_posts = []
 for post in posts:
@@ -73,7 +74,7 @@ for post in posts:
     i = i + 1
     all_posts.append(post)
 
-with open('partha.bhowmik.pkl', 'wb') as f:
+with open('shujon.pkl', 'wb') as f:
     pickle.dump(all_posts, f)
 f.close()
 

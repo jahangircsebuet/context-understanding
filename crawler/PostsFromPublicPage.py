@@ -69,8 +69,6 @@ class PostFromPublicPage(object):
 
     def collect_posts(self, depth, url, filename, gender):
         posts = []
-        # self.browser.get('https://www.facebook.com/chamokh/')
-        # self.browser.get('https://www.facebook.com/JhankarMahbub/')
         self.browser.get(url)
 
         # close the pop up
@@ -101,29 +99,5 @@ class PostFromPublicPage(object):
 browser = Browser(0).getBrowser()
 scraper = PostFromPublicPage(browser=browser, depth=5)
 
-# https://www.facebook.com/arifkhandake
-# posts = scraper.collect_posts(50, "https://www.facebook.com/arifkhandake", "arifkhandake.csv", "M")
-
-# https://www.facebook.com/chamok.hasan/ - done
-# posts = scraper.collect_posts(50, "https://www.facebook.com/chamok.hasan/", "chamok.hasan.csv", "M")
-
-# https://www.facebook.com/shuruve.islam -done
-# posts = scraper.collect_posts(20, "https://www.facebook.com/shuruve.islam/", "shuruve.islam.csv", "F")
-
-# https://www.facebook.com/ragibhasan
-# posts = scraper.collect_posts(50, "https://www.facebook.com/ragibhasan/", "ragibhasan.csv", "M")
-
-# https://www.facebook.com/mamun3.14 - done
-# posts = scraper.collect_posts(50, "https://www.facebook.com/mamun3.14/", "mamun3.14.csv", "M")
-
-# https://www.facebook.com/aamunir.hasan
-posts = scraper.collect_posts(50, "https://www.facebook.com/aamunir.hasan/", "aamunir.hasan.csv", "M")
-
-# https://www.facebook.com/DrNiazChowdhury
-# https://www.facebook.com/superman.com.bd
-# https://facebook.com/sohani.akter.9
-# https://www.facebook.com/people/Sayed-Sajib/100083328978432/
-
-
-print("total posts.len: ", len(posts))
-
+posts = scraper.collect_posts(12, "https://www.facebook.com/akramullah.zulfique.9", "akramullah.zulfique.9.csv", "M")
+print(len(posts))
