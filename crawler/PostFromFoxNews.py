@@ -10,7 +10,7 @@ from crawler.login import Login
 import csv
 
 
-class PostFromPublicPage(object):
+class PostFromFoxNews(object):
     def __init__(self, browser, depth):
         self.browser = browser
         self.depth = int(depth)
@@ -77,8 +77,25 @@ class PostFromPublicPage(object):
 
     def collect_posts_blog(self, url):
         self.browser.get(url)
-        post = self.browser.find_elements_by_xpath("/html/body/div[1]/div[6]/div/div/div/div[2]")
-        print(post[0].text)
+        # posts = self.browser.find_element_by_xpath("//ul[@class='spcv_messages-list']")
+        self.scroll_web_page()
+        posts = []
+        try:
+
+            # // *[ @ data - spot - im - module - default - area = 'conversation']
+            conversations = self.browser.find_elements_by_xpath(xpath="//div[@data-spot-im-module-default-area='conversation']")
+            if len(conversations) > 0:
+                conversation_div = conversations[0]
+                # show_more = conversation_div.find_elements_by_xpath(
+                #     "//div[contains(@class, 'spcv_loadMoreCommentsContainer')]")
+                lis = conversation_div.find_elements_by_xpath("//li[@class='spcv_list-item']")
+                print(len(lis))
+                # show_more = conversation_div.find_elements_by_xpath("//div[@class = 'spcv_loadMoreCommentsContainer']")
+                # print("show_more")
+                # print(show_more)
+        except Exception as e:
+            print(e)
+
         return posts
 
     def collect_posts(self, depth, url, filename, gender, loginRequired, email, password):
@@ -119,11 +136,11 @@ class PostFromPublicPage(object):
 
 
 browser = Browser(0).getBrowser()
-scraper = PostFromPublicPage(browser=browser, depth=5)
+scraper = PostFromFoxNews(browser=browser, depth=5)
 
 
-conversation = scraper.collect_posts_blog("https://www.prothomalo.com/lifestyle/fwlub9qw3y")
-
+posts = scraper.collect_posts_blog("https://www.foxnews.com/politics/bidens-billion-dollar-plan-build-500000-ev-chargers-has-yet-yield-single-charger")
+print(len(posts))
 
 # posts = scraper.collect_posts(50,
 #                               "https://www.facebook.com/profile.php?id=100017579682426",
